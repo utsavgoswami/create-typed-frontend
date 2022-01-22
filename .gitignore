@@ -1,3 +1,6 @@
+# Transpiled js directory
+output/
+
 # Logs
 logs
 *.log
